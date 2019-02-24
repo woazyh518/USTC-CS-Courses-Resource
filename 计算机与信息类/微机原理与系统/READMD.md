@@ -1,1 +1,0 @@
-# [课程主页](http://staff.ustc.edu.cn/~wjluo/mcps/)

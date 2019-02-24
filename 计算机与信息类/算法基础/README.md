@@ -40,3 +40,7 @@
 4th：最佳调度问题的回溯算法（sch2-2）；（9 a.m.-12 a.m. on Dec.2）
 
 5th：图搜索 BFS 算法及存储优化.（9 a.m.-12 a.m. on Dec.9）
+
+## 网盘资源
+- [算法导论ver3](https://pan.baidu.com/s/1-GdXQPXnvj8rBkb_vtV5yA) 提取码: 0000
+- [算法导论ver2](链接: https://pan.baidu.com/s/1KtTV2V0hPYTxnM3HWfp6iw) 提取码: 0000
